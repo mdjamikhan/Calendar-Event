@@ -1,22 +1,27 @@
 # 📅 Calendar-Event
 
-A simple and fast Calendar Event web app built with **React** and **Vite**. This project uses modern frontend tooling including Vite for lightning-fast build and development experience, along with ESLint for consistent and clean code style.
+A calendar event web app built using **React** and **Vite**. This template provides a minimal setup to get React working in Vite with HMR and ESLint rules.
 
-## 🚀 Features
+## 🔗 Live Demo
 
-- 📆 Add, edit, and delete calendar events
-- 🖱️ Interactive and responsive UI
-- ⚡ Lightning-fast builds and hot module replacement (HMR) using Vite
-- ✅ Linting enabled via ESLint for clean code practices
+👉 [View Deployed Project on Vercel](https://calendar-event-one.vercel.app/)
 
-## 🛠️ Tech Stack
+> _Replace the above link with your actual Vercel deployment URL._
 
-- **React** — UI Library
-- **Vite** — Build tool and dev server
-- **JavaScript** — Language
-- **ESLint** — Linting
+---
 
-## 🔧 Getting Started
+## 🚀 Tech Stack
+
+- ⚛️ React – UI library
+- ⚡ Vite – Fast build tool with HMR
+- 🧹 ESLint – Linting for clean code
+- 🗓️ Calendar/Event Functionality – Custom logic
+
+---
+
+## 📦 Getting Started
+
+Follow these steps to get the project running locally:
 
 ### 1. Clone the Repository
 
@@ -24,11 +29,13 @@ A simple and fast Calendar Event web app built with **React** and **Vite**. This
 git clone https://github.com/your-username/Calendar-Event.git
 cd Calendar-Event
 2. Install Dependencies
+This project uses npm. You can install all required libraries with:
+
 bash
 Copy
 Edit
 npm install
-3. Run the App
+3. Run in Development
 bash
 Copy
 Edit
@@ -43,20 +50,4 @@ bash
 Copy
 Edit
 npm run preview
-✅ ESLint Configuration
-This project uses a minimal ESLint setup. You can expand it by integrating:
 
-typescript-eslint if using TypeScript
-
-Additional rules for best practices and accessibility
-
-Check out the Vite React + TypeScript Template for more advanced configurations.
-
-🔗 Useful Links
-Vite Documentation
-
-React Documentation
-
-ESLint Documentation
-
-@vitejs/plugin-react
