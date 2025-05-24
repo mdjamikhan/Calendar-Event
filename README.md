@@ -11,19 +11,19 @@
    Support recurring events (daily, weekly, monthly, and custom intervals)
    
    Persist data in localStorage
-
-Use the date-fns library for date operations
-
+   
+   Use the date-fns library for date operations
+   
 🚀 Features
-    Monthly calendar view with day navigation
+   Monthly calendar view with day navigation
    
-    Add/Edit/Delete events
-   
-    Recurring event support (daily, weekly, monthly, custom)
-   
-    Events are saved in browser localStorage
-   
-    Built with date-fns for accurate and easy date manipulation
+   Add/Edit/Delete events
+         
+   Recurring event support (daily, weekly, monthly, custom)
+         
+   Events are saved in browser localStorage
+         
+   Built with date-fns for accurate and easy date manipulation
 
 🚀 Live Demo
 
