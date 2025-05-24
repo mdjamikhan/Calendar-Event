@@ -31,9 +31,7 @@ cd Calendar-Event
 2. Install Dependencies
 This project uses npm. You can install all required libraries with:
 
-bash
-Copy
-Edit
+
 npm install
 3. Run in Development
 bash
