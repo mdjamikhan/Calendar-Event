@@ -4,7 +4,7 @@ This is a simple and interactive calendar application built using **React** and 
 
 ## 🚀 Live Demo
 
-👉 [View Calendar App on Vercel](https://your-calendar-app.vercel.app)
+👉 [View Calendar App on Vercel](https://calendar-event-one.vercel.app/)
 
 ## 🛠 Tech Stack
 
@@ -22,8 +22,24 @@ This is a simple and interactive calendar application built using **React** and 
    ```bash
    Install dependencies
     npm install
+   ```
+   Install date-fns
+   ```bash
+   npm install date-fns
+   ```
+   Run the development server
+   ```bash
+   npm run dev
+   ```
 
-      ```
-```bash
-   Install dependencies
-    npm install
+🧩 Features
+Displays current month and year
+
+Navigate between months
+
+Highlights current date
+
+Uses date-fns for reliable date manipulation
+
+
+
