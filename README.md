@@ -1,63 +1,28 @@
-📅 React Calendar App
-This is a customizable React calendar application that allows users to:
+# 📅 React Calendar App
 
-Navigate through months
+This is a simple and interactive calendar application built using **React** and **date-fns**. It allows users to view months, navigate between them, and see highlighted current dates.
 
-Add, edit, and delete events
+## 🚀 Live Demo
 
-View events by day
+👉 [View Calendar App on Vercel](https://your-calendar-app.vercel.app)
 
-Support recurring events (daily, weekly, monthly, and custom intervals)
+## 🛠 Tech Stack
 
-Persist data in localStorage
+- React
+- date-fns
+- Tailwind CSS (optional, if used)
+- Vite (optional, if used)
 
-Use the date-fns library for date operations
+## 📦 Installation
 
-operations
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/yourusername/calendar-app.git
+   cd calendar-app
+   ```bash
+   Install dependencies
+    npm install
 
-🚀 Features
-📆 Monthly calendar view with day navigation
-
-📝 Add/Edit/Delete events
-
-🔁 Recurring event support (daily, weekly, monthly, custom)
-
-🗃️ Events are saved in browser localStorage
-
-⚙️ Built with date-fns for accurate and easy date manipulation
-
-🧩 Technologies Used
-ReactJS
-
-date-fns – A lightweight library for date operations
-
-localStorage – For persisting event data
-
-📦 Installation
-git clone https://github.com/your-username/react-calendar-app.git
-cd react-calendar-app
-npm install
-npm start
-
-📚 Usage
-Click on a date to view or manage events.
-
-Add a new event by clicking the Add Event button.
-
-Fill in title, time, description, and recurrence options.
-
-Events will appear in the calendar and are saved in localStorage.
-
-Click on an event to edit or delete it.
-
-
-Install dependencies
-
-npm install
-
-Install date-fns
-npm install date-fns
-
-Run the development server
-
-npm run dev
+      ```bash
+   Install dependencies
+    npm install
