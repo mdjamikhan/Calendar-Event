@@ -23,6 +23,7 @@ This is a simple and interactive calendar application built using **React** and 
    Install dependencies
     npm install
 
-      ```bash
+      ```
+```bash
    Install dependencies
     npm install
