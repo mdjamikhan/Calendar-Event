@@ -1,14 +1,62 @@
-# React + Vite
+# 📅 Calendar-Event
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and fast Calendar Event web app built with **React** and **Vite**. This project uses modern frontend tooling including Vite for lightning-fast build and development experience, along with ESLint for consistent and clean code style.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 📆 Add, edit, and delete calendar events
+- 🖱️ Interactive and responsive UI
+- ⚡ Lightning-fast builds and hot module replacement (HMR) using Vite
+- ✅ Linting enabled via ESLint for clean code practices
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# Calendar-Event
-# Calendar-Event
+- **React** — UI Library
+- **Vite** — Build tool and dev server
+- **JavaScript** — Language
+- **ESLint** — Linting
+
+## 🔧 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/Calendar-Event.git
+cd Calendar-Event
+2. Install Dependencies
+bash
+Copy
+Edit
+npm install
+3. Run the App
+bash
+Copy
+Edit
+npm run dev
+4. Build for Production
+bash
+Copy
+Edit
+npm run build
+5. Preview Production Build
+bash
+Copy
+Edit
+npm run preview
+✅ ESLint Configuration
+This project uses a minimal ESLint setup. You can expand it by integrating:
+
+typescript-eslint if using TypeScript
+
+Additional rules for best practices and accessibility
+
+Check out the Vite React + TypeScript Template for more advanced configurations.
+
+🔗 Useful Links
+Vite Documentation
+
+React Documentation
+
+ESLint Documentation
+
+@vitejs/plugin-react
