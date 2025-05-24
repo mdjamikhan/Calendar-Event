@@ -1,4 +1,3 @@
-
 📅 React Calendar App
    This is a customizable React calendar application that allows users to:
    
