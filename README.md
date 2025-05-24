@@ -1,8 +1,31 @@
-# 📅 React Calendar App
 
-This is a simple and interactive calendar application built using **React** and **date-fns**. It allows users to view months, navigate between them, and see highlighted current dates.
+📅 React Calendar App
+   This is a customizable React calendar application that allows users to:
+   
+   Navigate through months
+   
+   Add, edit, and delete events
+   
+   View events by day
+   
+   Support recurring events (daily, weekly, monthly, and custom intervals)
+   
+   Persist data in localStorage
 
-## 🚀 Live Demo
+Use the date-fns library for date operations
+
+🚀 Features
+    Monthly calendar view with day navigation
+   
+    Add/Edit/Delete events
+   
+    Recurring event support (daily, weekly, monthly, custom)
+   
+    Events are saved in browser localStorage
+   
+    Built with date-fns for accurate and easy date manipulation
+
+🚀 Live Demo
 
 👉 [View Calendar App on Vercel](https://calendar-event-one.vercel.app/)
 
