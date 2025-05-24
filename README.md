@@ -1,51 +1,63 @@
-# 📅 Calendar-Event
+📅 React Calendar App
+This is a customizable React calendar application that allows users to:
 
-A calendar event web app built using **React** and **Vite**. This template provides a minimal setup to get React working in Vite with HMR and ESLint rules.
+Navigate through months
 
-## 🔗 Live Demo
+Add, edit, and delete events
 
-👉 [View Deployed Project on Vercel](https://calendar-event-one.vercel.app/)
+View events by day
 
-> _Replace the above link with your actual Vercel deployment URL._
+Support recurring events (daily, weekly, monthly, and custom intervals)
 
----
+Persist data in localStorage
 
-## 🚀 Tech Stack
+Use the date-fns library for date operations
 
-- ⚛️ React – UI library
-- ⚡ Vite – Fast build tool with HMR
-- 🧹 ESLint – Linting for clean code
-- 🗓️ Calendar/Event Functionality – Custom logic
+operations
 
----
+🚀 Features
+📆 Monthly calendar view with day navigation
 
-## 📦 Getting Started
+📝 Add/Edit/Delete events
 
-Follow these steps to get the project running locally:
+🔁 Recurring event support (daily, weekly, monthly, custom)
 
-### 1. Clone the Repository
+🗃️ Events are saved in browser localStorage
 
-```bash
-git clone https://github.com/your-username/Calendar-Event.git
-cd Calendar-Event
-2. Install Dependencies
-This project uses npm. You can install all required libraries with:
+⚙️ Built with date-fns for accurate and easy date manipulation
 
+🧩 Technologies Used
+ReactJS
+
+date-fns – A lightweight library for date operations
+
+localStorage – For persisting event data
+
+📦 Installation
+git clone https://github.com/your-username/react-calendar-app.git
+cd react-calendar-app
+npm install
+npm start
+
+📚 Usage
+Click on a date to view or manage events.
+
+Add a new event by clicking the Add Event button.
+
+Fill in title, time, description, and recurrence options.
+
+Events will appear in the calendar and are saved in localStorage.
+
+Click on an event to edit or delete it.
+
+
+Install dependencies
 
 npm install
-3. Run in Development
-bash
-Copy
-Edit
-npm run dev
-4. Build for Production
-bash
-Copy
-Edit
-npm run build
-5. Preview Production Build
-bash
-Copy
-Edit
-npm run preview
 
+Install date-fns
+npm install date-fns
+
+Run the development server
+
+npm run dev
